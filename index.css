@@ -1,0 +1,1012 @@
+.mediaViewInfo {
+	--web-view-name: index;
+	--web-view-id: index;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: index;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#index {
+	position: absolute;
+	width: 1920px;
+	height: 5692px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: index;
+	--web-view-id: index;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+#Rectangle_21 {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_21 {
+	position: absolute;
+	overflow: visible;
+	width: 1628px;
+	height: 803px;
+	left: 160px;
+	top: 3265px;
+}
+#Rectangle_18 {
+	opacity: 0.3;
+	fill: rgba(112,112,112,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_18 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 4313px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_11 {
+	fill: rgba(112,112,112,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_11 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1646px;
+	height: 757px;
+	left: 160px;
+	top: 1389px;
+}
+#ID919126d62c44e16e941e5b42f5ff {
+	opacity: 0.89;
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 1633px;
+	height: 857px;
+	left: 143px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_1 {
+	fill: rgba(246,59,59,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 183px;
+	height: 73px;
+	left: 254px;
+	top: 65px;
+}
+#Rectangle_2 {
+	fill: rgba(246,59,59,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 183px;
+	height: 73px;
+	left: 461px;
+	top: 65px;
+}
+#Rectangle_3 {
+	fill: rgba(246,59,59,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_3 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 183px;
+	height: 73px;
+	left: 668px;
+	top: 65px;
+}
+#Rectangle_4 {
+	fill: rgba(246,59,59,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_4 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 183px;
+	height: 73px;
+	left: 1092px;
+	top: 65px;
+}
+#Rectangle_5 {
+	fill: rgba(246,59,59,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_5 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 183px;
+	height: 73px;
+	left: 1299px;
+	top: 65px;
+}
+#Rectangle_6 {
+	fill: rgba(246,59,59,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_6 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 183px;
+	height: 73px;
+	left: 1506px;
+	top: 65px;
+}
+#HOME {
+	left: 295px;
+	top: 75px;
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Knicknack;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.7px;
+}
+#Gallery {
+	left: 499px;
+	top: 75px;
+	position: absolute;
+	overflow: visible;
+	width: 92px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Knicknack;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.7px;
+}
+#About_Us {
+	left: 696px;
+	top: 75px;
+	position: absolute;
+	overflow: visible;
+	width: 116px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Knicknack;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.7px;
+}
+#Pets_FAQs {
+	left: 1112px;
+	top: 75px;
+	position: absolute;
+	overflow: visible;
+	width: 129px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Knicknack;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.7px;
+}
+#Stories {
+	left: 1333px;
+	top: 74px;
+	position: absolute;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Knicknack;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.7px;
+}
+#Contact_Us {
+	left: 1518px;
+	top: 74px;
+	position: absolute;
+	overflow: visible;
+	width: 143px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Knicknack;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.7px;
+}
+#Welcome_to_BunnyHugs_Nature_Ch {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 228px;
+	top: 217px;
+	position: absolute;
+	overflow: visible;
+	width: 1279px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Knicknack;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.7px;
+}
+#d2c66479e1d535ef43611b2d31ed3a {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 364.29px;
+	height: 656.062px;
+	left: 1429.71px;
+	top: 300.85px;
+	overflow: visible;
+}
+#Rectangle_7 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	width: 483;
+	height: 310;
+	left: 220px;
+	top: 911px;
+	overflow: visible;
+}
+#Sharing_is_caring____unless_it {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 892px;
+	top: 884px;
+	position: absolute;
+	overflow: visible;
+	width: 881px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Knicknack;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.7px;
+}
+#carrots {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 67px;
+	height: 67px;
+	left: 1514px;
+	top: 1061px;
+	overflow: visible;
+}
+#rabbit {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 58px;
+	height: 58px;
+	left: 1579px;
+	top: 1067px;
+	overflow: visible;
+}
+#kale {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 60px;
+	height: 60px;
+	left: 1643px;
+	top: 1068px;
+	overflow: visible;
+}
+#Rectangle_8 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_8 {
+	position: absolute;
+	overflow: visible;
+	width: 438px;
+	height: 610px;
+	left: 188px;
+	top: 1300px;
+}
+#Rectangle_9 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_9 {
+	position: absolute;
+	overflow: visible;
+	width: 438px;
+	height: 610px;
+	left: 754px;
+	top: 1300px;
+}
+#Rectangle_10 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_10 {
+	position: absolute;
+	overflow: visible;
+	width: 438px;
+	height: 610px;
+	left: 1320px;
+	top: 1300px;
+}
+#Rectangle_12 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_12 {
+	position: absolute;
+	overflow: visible;
+	width: 350px;
+	height: 233px;
+	left: 228px;
+	top: 1359px;
+}
+#Rectangle_13 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_13 {
+	position: absolute;
+	overflow: visible;
+	width: 350px;
+	height: 233px;
+	left: 799px;
+	top: 1359px;
+}
+#Rectangle_14 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_14 {
+	position: absolute;
+	overflow: visible;
+	width: 350px;
+	height: 233px;
+	left: 1364px;
+	top: 1359px;
+}
+#Rectangle_15 {
+	fill: rgba(246,59,59,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_15 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 202px;
+	height: 67px;
+	left: 882px;
+	top: 1849px;
+}
+#Learn_Everything_there_is_abou {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 780px;
+	top: 1609px;
+	position: absolute;
+	overflow: visible;
+	width: 405px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.7px;
+}
+#Join_our_ever_growing_Communit {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 1338px;
+	top: 1609px;
+	position: absolute;
+	overflow: visible;
+	width: 418px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.7px;
+}
+#Rectangle_16 {
+	fill: rgba(246,59,59,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_16 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 202px;
+	height: 67px;
+	left: 1455px;
+	top: 1849px;
+}
+#Rectangle_17 {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	width: 438;
+	height: 416;
+	left: 295px;
+	top: 1936px;
+	overflow: visible;
+}
+#Eh_whats_up_doc_Sharings___gre {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 754px;
+	top: 1985px;
+	position: absolute;
+	overflow: visible;
+	width: 983px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Knicknack;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.7px;
+}
+#Get_to_live_with_a_bunny_and_e {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 211px;
+	top: 1612px;
+	position: absolute;
+	overflow: visible;
+	width: 399px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.7px;
+}
+#Rectangle_19 {
+	fill: rgba(246,59,59,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_19 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 202px;
+	height: 67px;
+	left: 316px;
+	top: 1849px;
+}
+#carrots_bh {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 67px;
+	height: 67px;
+	left: 1489px;
+	top: 2172px;
+	overflow: visible;
+}
+#laughing-out-loud {
+	position: absolute;
+	width: 64px;
+	height: 64px;
+	left: 1569px;
+	top: 2180px;
+	overflow: visible;
+}
+#Capture-removebg-preview {
+	position: absolute;
+	width: 282px;
+	height: 241px;
+	left: 727px;
+	top: 1088px;
+	overflow: visible;
+}
+#Rectangle_20 {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	width: 1103;
+	height: 622;
+	left: 422px;
+	top: 2390px;
+	overflow: visible;
+}
+#ID360_F_633363085_WsxRY2HQiGTe {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 1594px;
+	height: 556px;
+	left: 194px;
+	top: 3033px;
+	overflow: visible;
+}
+#Get_a_Bunny_for_your_Party_Wit {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 237px;
+	top: 3568px;
+	position: absolute;
+	overflow: visible;
+	width: 873px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Knicknack;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.7px;
+}
+#Path_1 {
+	fill: rgba(246,59,59,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 242px;
+	height: 66.5px;
+	left: 1252px;
+	top: 3666.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Reach_Out {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 1283px;
+	top: 3677px;
+	position: absolute;
+	overflow: visible;
+	width: 160px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Knicknack;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.7px;
+}
+#Rectangle_22 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_22 {
+	position: absolute;
+	overflow: visible;
+	width: 705px;
+	height: 831px;
+	left: 991px;
+	top: 4140px;
+}
+#Contact_Us_bq {
+	left: 1150px;
+	top: 4140px;
+	position: absolute;
+	overflow: visible;
+	width: 345px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Knicknack;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(246,59,59,1);
+	letter-spacing: 0.7px;
+}
+#Rectangle_23 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_23 {
+	position: absolute;
+	overflow: visible;
+	width: 289px;
+	height: 49px;
+	left: 1031px;
+	top: 4313px;
+}
+#Rectangle_24 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_24 {
+	position: absolute;
+	overflow: visible;
+	width: 289px;
+	height: 49px;
+	left: 1369px;
+	top: 4313px;
+}
+#Rectangle_25 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_25 {
+	position: absolute;
+	overflow: visible;
+	width: 488px;
+	height: 47px;
+	left: 1029px;
+	top: 4423px;
+}
+#Rectangle_26 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_26 {
+	position: absolute;
+	overflow: visible;
+	width: 289px;
+	height: 49px;
+	left: 1031px;
+	top: 4531px;
+}
+#Rectangle_27 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_27 {
+	position: absolute;
+	overflow: visible;
+	width: 498px;
+	height: 224px;
+	left: 1031px;
+	top: 4641px;
+}
+#Rectangle_28 {
+	fill: rgba(246,59,59,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_28 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 202px;
+	height: 67px;
+	left: 1474px;
+	top: 4880px;
+}
+#FirstName {
+	left: 1031px;
+	top: 4271px;
+	position: absolute;
+	overflow: visible;
+	width: 159px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Knicknack;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.7px;
+}
+#SecondName {
+	left: 1380px;
+	top: 4271px;
+	position: absolute;
+	overflow: visible;
+	width: 189px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Knicknack;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.7px;
+}
+#Email {
+	left: 1039px;
+	top: 4381px;
+	position: absolute;
+	overflow: visible;
+	width: 83px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Knicknack;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.7px;
+}
+#Phone_Number {
+	left: 1039px;
+	top: 4489px;
+	position: absolute;
+	overflow: visible;
+	width: 221px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Knicknack;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.7px;
+}
+#Message {
+	left: 1031px;
+	top: 4599px;
+	position: absolute;
+	overflow: visible;
+	width: 133px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Knicknack;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.7px;
+}
+#pngwingcom {
+	position: absolute;
+	width: 416px;
+	height: 416px;
+	left: 575px;
+	top: 4620px;
+	overflow: visible;
+}
+#Promoting_Inclusion_Compassion {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 194px;
+	top: 4343px;
+	position: absolute;
+	overflow: visible;
+	width: 621px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Knicknack;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.7px;
+}
+#pngwingcom_1 {
+	position: absolute;
+	width: 736px;
+	height: 736px;
+	left: 238px;
+	top: 3516px;
+	overflow: visible;
+}
+#Path_2 {
+	fill: rgba(246,59,59,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_2 {
+	overflow: visible;
+	position: absolute;
+	width: 273.68px;
+	height: 70.506px;
+	left: 761px;
+	top: 5036px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Join_Channel {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 798px;
+	top: 5050px;
+	position: absolute;
+	overflow: visible;
+	width: 200px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Knicknack;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.7px;
+}
+#Group_1 {
+	position: absolute;
+	width: 122px;
+	height: 121px;
+	left: 906px;
+	top: 42px;
+	overflow: visible;
+}
+#Ellipse_1 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_1 {
+	position: absolute;
+	overflow: visible;
+	width: 122px;
+	height: 118px;
+	left: 0px;
+	top: 1px;
+}
+#WhatsApp_Image_2025-03-10_at_6 {
+	position: absolute;
+	width: 121px;
+	height: 121px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
